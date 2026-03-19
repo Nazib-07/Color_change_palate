@@ -4,6 +4,7 @@ body{
     font-family: cursive;
     font-size: 1.3rem;
     box-sizing: border-box;
+    background-color: rgb(226, 226, 226);
 }
 h1{
     text-align: center;
@@ -69,7 +70,7 @@ h1{
     transform: translate(5px);
 }
 .light{
-    background-color: white;
+    background-color: rgb(226, 226, 226);
 }
 .red{
     background-color: #ff6b6b;

@@ -15,34 +15,27 @@ const myFunction = (colortype, textColor) => {
 }
 redBtn.addEventListener("click", () => {
     myFunction("red", "white");
-
 });
 
 greenBtn.addEventListener("click", () => {
     myFunction("green", "rgb(70, 70, 70)");
-
 });
 
 blueBtn.addEventListener("click", () => {
     myFunction("blue", "white");
-
 });
 
 yellowBtn.addEventListener("click", () => {
     myFunction("yellow", "black");
-
 });
 
 pinkBtn.addEventListener("click", () => {
     myFunction("pink", "black");
-
 });
 
 bluevioletBtn.addEventListener("click", () => {
     myFunction("blueviolet", "white");
-
 });
 defaultbtn.addEventListener("click", () => {
-    myFunction("light", "rgb(70, 70, 70");
-
+    myFunction("light", "rgb(70, 70, 70)");
 })
